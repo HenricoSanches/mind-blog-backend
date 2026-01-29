@@ -30,7 +30,9 @@ DB_NAME=mind_blog
 JWT_SECRET=sua_chave_secreta
 
 ## ▶️ Como rodar
+
 npm install
+
 npm run dev
 
 
