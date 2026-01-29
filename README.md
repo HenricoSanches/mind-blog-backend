@@ -29,7 +29,7 @@ DB_PASSWORD=
 DB_NAME=mind_blog
 JWT_SECRET=sua_chave_secreta
 
-▶️ Como rodar
+## ▶️ Como rodar
 npm install
 npm run dev
 
@@ -38,7 +38,7 @@ Servidor rodando em:
 
 http://localhost:3333
 
-📌 Rotas principais
+## 📌 Rotas principais
 
 POST /auth/login
 
@@ -53,7 +53,7 @@ POST /posts
 O dump do banco está disponível em:
 /database/schema.sql
 
-##🔐 Autenticação
+## 🔐 Autenticação
 
 Login gera token JWT
 
