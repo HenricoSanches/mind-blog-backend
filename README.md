@@ -7,8 +7,9 @@ API REST do projeto **Mind Blog**.
 - Express
 - TypeScript
 - MySQL
-- JWT
+- bcrypt
 - Multer
+- JWT
 
 ## 🚀 Funcionalidades
 - Autenticação com JWT
