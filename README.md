@@ -50,7 +50,7 @@ GET /posts
 
 POST /posts
 
-##🗄 Banco de dados
+## 🗄 Banco de dados
 
 O dump do banco está disponível em:
 /database/schema.sql
@@ -64,3 +64,8 @@ Rotas protegidas exigem Bearer Token
 POST /posts/:id/comments
 
 POST /posts/:id/edit
+
+## 🧑‍🚀 Postman 
+
+mind-blog.postman_collection.json
+
