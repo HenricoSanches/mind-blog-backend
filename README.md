@@ -48,6 +48,17 @@ GET /posts
 
 POST /posts
 
+##🗄 Banco de dados
+
+O dump do banco está disponível em:
+/database/schema.sql
+
+##🔐 Autenticação
+
+Login gera token JWT
+
+Rotas protegidas exigem Bearer Token
+
 POST /posts/:id/comments
 
 POST /posts/:id/edit
